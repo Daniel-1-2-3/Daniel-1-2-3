@@ -1,11 +1,6 @@
-Daniel Zhu
-Aspiring data scientist, experienced in machine learning and backend developement.
+<h1 align=center >Daniel Zhu</h1>
+<h2>Aspiring data scientist, experienced in machine learning and backend developement.</h2>
 
-Languages:
-img icons8 img icons8
+Languages
 
-Tools:
-img icons8 img icons8 img icons8 img icons8 img icons8 img icons8 img icons8 img icons8 img icons8 img icons8
-
-Libraries And Frameworks:
-devicon--numpy (1) devicon--pandas devicon--matplotlib simple-icons--scipy logos--seaborn-icon devicon--keras (1) devicon--pytorch devicon--tensorflow skill-icons--scikitlearn-dark
+Frameworks

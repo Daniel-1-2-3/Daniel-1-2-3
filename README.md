@@ -20,7 +20,7 @@
 <kbd><a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/flask-light.svg" width="100"></a></kbd>
 <kbd><a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/rasberrypi-light.svg" width="100"></a></kbd>
 <kbd><a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-light.svg" width="100"></a></kbd>
-<kbd><a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pygame-light.svg" width="100"></a></kbd>
+<kbd><a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pygame-light.png" width="100"></a></kbd>
 <br>
 <kbd><a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/opencv-light.svg" width="100"></a></kbd>
 <kbd><a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/tensorflow-light.svg" width="100"></a></kbd>

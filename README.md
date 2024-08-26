@@ -2,7 +2,7 @@
   <h1>Daniel Zhu</h1>
   <h4> Aspiring data scientist, experienced in machine learning and backend developement. </h4>
 </div>
-<div align=center>
+<div align=center width=75%>
   <div align=left>
     <li>  Founder of Abbey Park High School's AI Game Design club</li>
     <li>  Design team member in robotics team 1325, Inverse Paradox</li>

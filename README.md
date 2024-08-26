@@ -7,21 +7,19 @@
 </ul>
 
 <h3>Languages</h3>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="100" style="border: 2px black; padding: 2"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="100"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="100"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="100"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="100"></a> 
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/godot-dark.svg" width="100"></a> 
 
 <h3>Frameworks & Libraries</h3>
-<div style="display: inline-block; border: 2px solid black; padding: 5px;">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pytorch-light.svg" width="100"></a>
-</div>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/flask-light.svg" width="100"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/rasberrypi-light.svg" width="100"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-light.svg" width="100"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/opencv-light.svg" width="100"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/tensorflow-light.svg" width="100"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/numpy-light.svg" width="100"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vitejs-light.svg" width="100"></a>
+<kbd><a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pytorch-light.svg" width="100"></a></kbd>
+<kbd><a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/flask-light.svg" width="100"></a></kbd>
+<kbd><a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/rasberrypi-light.svg" width="100"></a></kbd>
+<kbd><a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-light.svg" width="100"></a></kbd>
+<kbd><a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/opencv-light.svg" width="100"></a></kbd>
+<kbd><a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/tensorflow-light.svg" width="100"></a></kbd>
+<kbd><a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/numpy-light.svg" width="100"></a></kbd>
+<kbd><a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vitejs-light.svg" width="100"></a></kbd>
 

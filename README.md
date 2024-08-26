@@ -2,11 +2,9 @@
   <h1>Daniel Zhu</h1>
   <h4> Aspiring data scientist, experienced in machine learning and backend developement. </h4>
 </div>
-<ul>
-  <li>Founder of Abbey Park High School's AI Game Design club</li>
-  <li>Design team member in robotics team 1325, Inverse Paradox</li>
-  <li>Procor Engineering Award, Silver Merit, and Inspiration Student Award at BASEF science fair 2024</li>
-</ul>
+> Founder of Abbey Park High School's AI Game Design club</li>
+> Design team member in robotics team 1325, Inverse Paradox</li>
+> Procor Engineering Award, Silver Merit, and Inspiration Student Award at BASEF science fair 2024</li>
 
 <h3 align=center >Languages</h3>
 <div align=center>

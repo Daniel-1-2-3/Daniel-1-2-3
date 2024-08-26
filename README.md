@@ -7,7 +7,7 @@
 </ul>
 
 <h3>Languages</h3>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="100" style="border: 2px solid black; padding: 2px"></a>
+<a href="#" style="border: 2px solid black"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="100" style="padding: 2"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="100"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="100"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="100"></a> 

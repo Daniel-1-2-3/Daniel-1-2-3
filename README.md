@@ -1,6 +1,6 @@
 <div align=center >
   <h1>Daniel Zhu</h1>
-  <h2> Aspiring data scientist, experienced in machine learning and backend developement. </h2>
+  <h4> Aspiring data scientist, experienced in machine learning and backend developement. </h4>
 </div>
 <ul>
   <li>  Founder of Abbey Park High School's AI Game Design club</li>

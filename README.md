@@ -3,7 +3,7 @@
   <h4> Aspiring data scientist, experienced in machine learning and backend developement. </h4>
 </div>
 <div align=center >
-  <li>Founder of Abbey Park High School's AI Game Design club</li>
+  <li>Founder and president of Abbey Park High School's AI Innovation Club</li>
   <li>Team member of robotics team 1325, Inverse Paradox</li>
   <li>Procor Engineering Award and Silver Merit at BASEF 2024</li>
 </div>

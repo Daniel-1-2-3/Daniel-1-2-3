@@ -4,7 +4,7 @@
 </div>
 <div align=center >
   <li>Founder and president of Abbey Park High School's AI Innovation Club</li>
-  <li>Team member of robotics team 1325, Inverse Paradox</li>
+  <li>Programming team member of robotics team 1325, Inverse Paradox</li>
   <li>Procor Engineering Award and Silver Merit at BASEF 2024</li>
 </div>
 
